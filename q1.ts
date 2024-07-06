@@ -47,4 +47,4 @@ console.log(buyItem(hero2, shop2));
 
 module.exports = buyItem;
 
-//660610802 นายสิรวิชญ์ สีทอง
+//660610802 นายสิรวิชญ์ สีทอง 
